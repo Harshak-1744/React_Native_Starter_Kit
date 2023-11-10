@@ -24,6 +24,7 @@
 - View: A container that supports layout with flexbox, style, some touch handling.
 - Text: A component for displaying text.
 - Image: A component for displaying images.
+- SafeAreaView: The SafeAreaView component is used to avoid overlaps with areas like the notch on iPhones or the status bar on Android devices, ensuring your UI elements are always visible and accessible
 - ScrollView: Provides a scrolling container.
 - StyleSheet: Provides an abstraction layer similar to CSS stylesheets.
 
